@@ -1,7 +1,6 @@
 
 # 🚀 Forever Full-Stack E-commerce Application
 
-## 🛒 Project Title & Description
 
 This project is a **comprehensive full-stack e-commerce website** built using the **MERN (MongoDB, Express.js, React, Node.js) stack**. It provides a complete online shopping experience for users and a dedicated admin panel for managing products and orders. The application includes robust features such as user authentication, product browsing, dynamic cart management, and integration with multiple payment gateways (Stripe and Razorpay), along with Cash on Delivery options.
 
